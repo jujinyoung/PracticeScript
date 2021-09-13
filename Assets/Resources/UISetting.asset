@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 725c1935eef01734e8b85930227230dd, type: 3}
+  m_Name: UISetting
+  m_EditorClassIdentifier: 
+  language: kr
+  themeColor: {r: 1, g: 0.42830187, b: 0.42830187, a: 0}
+  emptyThumbnailSprite: {fileID: 0}
+  popupPrfab: {fileID: 0}
+  defaultFont: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+  defaultFontSIze: 55
+  defaultFontColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

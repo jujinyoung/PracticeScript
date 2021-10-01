@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - PS
+  - WALL
+  - GATE
+  - GOAL
   layers:
   - Default
   - TransparentFX
